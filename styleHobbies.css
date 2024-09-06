@@ -1,0 +1,54 @@
+html{
+    background-color:#4169e1;
+    animation:forwards;
+    animation-duration: 5s;
+}
+
+
+.post {
+  font-family: "Handjet", sans-serif;
+  width: 300px;
+}
+
+img{
+    border-radius: 100%;
+    border: 5px solid aliceblue;
+    display: block;
+    height: 50px;
+    width: auto;
+}
+.container {
+    display: flex;
+    align-items: center;
+    float:right;
+}
+
+*{
+    flex-direction: column;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+    font-variation-settings: 100;
+    color:aliceblue;
+}
+
+.name{
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 1000px;
+  font-style: normal;
+  width: 100%;
+}
+
+.bold{
+    font-style:italic;
+}
+
+p{
+    font-size:30px;
+    width: 100rem;
+}
+.avatar{
+    height: 300px;
+}
+
